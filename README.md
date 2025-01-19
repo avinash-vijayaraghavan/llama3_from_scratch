@@ -1,1 +1,1 @@
-# llama_from_scatch
+# llama_from_scratch
